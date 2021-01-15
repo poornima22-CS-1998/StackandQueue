@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1610736203 source:c:\users\standard\desktop\stackandqueue\queue.c
+	<assert.h>
+	<stdint.h>
+	"queue.h"
+	<stddef.h>
+	<stdio.h>
+
+1610737612 c:\users\standard\desktop\stackandqueue\queue.h
+	<stdint.h>
+	"appconst.h"
+
+1610737592 c:\users\standard\desktop\stackandqueue\appconst.h
+
